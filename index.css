@@ -13,3 +13,6 @@ body{
     padding: 50px 50px 50px 50px;
     box-shadow: 0 0 100px #888888;
 }
+.fa-heart{
+    color: red;
+}
